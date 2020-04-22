@@ -20,7 +20,7 @@ app.post(
 );
 
 // This is how you post a message....
-client.postMessage(RandomImage, "UPJJRQ6TD");
+client.postMessage(RandomImage, "YOUR MEMBER ID HERE");
 
 app.listen(port, () =>
   console.log(`Example app listening at http://localhost:${port}`)
