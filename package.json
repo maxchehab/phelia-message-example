@@ -2,7 +2,7 @@
   "name": "phelia-example",
   "version": "0.1.0",
   "license": "MIT",
-  "repository": "https://github.com/maxchehab/phelia-example",
+  "repository": "https://github.com/maxchehab/phelia-message-example",
   "devDependencies": {
     "@types/express": "^4.17.4",
     "@types/jest": "^25.2.1",
